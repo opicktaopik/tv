@@ -135,37 +135,37 @@
     {
       "id": 4,
       "category": "Entertainment, National",
-      "title": "Trans 7",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "title": "TV6",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/6.png",
+      "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news.",
       "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/trans7.mp4",
       "user_agent": ""
     },
     {
       "id": 5,
       "category": "Regional",
-      "title": "ADI TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
+      "title": "Okey TV",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/okey.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd",
       "user_agent": ""
     },
     {
       "id": 6,
       "category": "News, National",
-      "title": "Berita Satu",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
+      "title": "Berita RTM",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/beritartm.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd",
       "user_agent": ""
     },
     {
       "id": 7,
-      "category": "Religion",
-      "title": "Rodja TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
+      "category": "News, National",
+      "title": "Sukan RTM",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/sukan.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://vids.rodja.tv:1935/live/rodja/chunklist_w1534883362.m3u8",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
       "user_agent": ""
     },
     {
