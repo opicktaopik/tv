@@ -111,7 +111,7 @@
       "title": "TV1",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/1.png",
       "description": "TV1 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
-      "streaming_url": "https://rtm-player.glueapi.io/latest/h/1",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
       "user_agent": ""
     },
     {
@@ -120,7 +120,7 @@
       "title": "TV2",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/2.png",
       "description": "TV2 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
-      "streaming_url": "https://rtm-player.glueapi.io/latest/h/2",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
       "user_agent": ""
     },
     {
