@@ -139,7 +139,7 @@
       "title": "TV6",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/6.png",
       "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/trans7.mp4",
+      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd",
       "user_agent": ""
     },
     {
