@@ -210,7 +210,7 @@
       "category": "News",
       "title": "Astro Arena",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/arena.png",
-      "description": "The ultimate destination for Malaysian sporting events, as well as showcasing Malaysian athletes competing at the pinnacle stage of world sports, and also the latest information on sports in the country. ",
+      "description": "The ultimate destination for Malaysian sporting events, as well as showcasing Malaysian athletes competing at the pinnacle stage of world sports, and also the latest information on sports in the country.",
       "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/tvone.mp4",
       "user_agent": ""
     },
@@ -228,7 +228,7 @@
       "category": "World, News",
       "title": "NTV7 ",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ntv7.png",
-      "description": "NTV7 is a Malaysian free-to-air channel focused on the Urban area with various types of programmes, drama and news. <a href="https://content.astro.com.my/channels/NTV7-93">Click Here</a>",
+      "description": "NTV7 is a Malaysian free-to-air channel focused on the Urban area with various types of programmes, drama and news.",
       "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
       "user_agent": ""
     },
@@ -237,7 +237,7 @@
       "category": "News, National",
       "title": "Astro Warna",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/warna.png",
-      "description": "Stress Free, No Tension Channel - Unwind after a long day with Warna. Sit down & relax while watching the hilarious antics of local comedians as well as a colorful selection of international comedies. ",
+      "description": "Stress Free, No Tension Channel - Unwind after a long day with Warna. Sit down & relax while watching the hilarious antics of local comedians as well as a colorful selection of international comedies.",
       "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
       "user_agent": ""
     },
@@ -246,7 +246,7 @@
       "category": "Entertainment",
       "title": "Astro BOO",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/boo.png",
-      "description": "There’s no horror quite like Asian horror, where the creepiest, slimiest, oiliest and scariest crawl out of your imagination to come to horrific life on screen. ",
+      "description": "There’s no horror quite like Asian horror, where the creepiest, slimiest, oiliest and scariest crawl out of your imagination to come to horrific life on screen.",
       "streaming_url": "https://www.youtube.com/watch?v=YE7VzlLtp-4",
       "user_agent": ""
     }
