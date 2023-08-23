@@ -108,7 +108,7 @@
   "channels": [
     {
       "id": 1,
-      "category": "Entertainment, National",
+      "category": "News, Entertainment, National",
       "title": "TV1",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/1.png",
       "description": "TV1 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
@@ -117,7 +117,7 @@
     },
     {
       "id": 2,
-      "category": "Entertainment, National",
+      "category": "News, Entertainment, National",
       "title": "TV2",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/2.png",
       "description": "TV2 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
@@ -126,7 +126,7 @@
     },
     {
       "id": 3,
-      "category": "Entertainment, National",
+      "category": "Entertainment",
       "title": "TV3",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/3.png",
       "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
@@ -135,7 +135,7 @@
     },
     {
       "id": 4,
-      "category": "Entertainment, National",
+      "category": "News, Entertainment, National",
       "title": "TV6",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/6.png",
       "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news.",
@@ -144,8 +144,8 @@
     },
     {
       "id": 5,
-      "category": "Entertainment, National",
-      "title": "Okey TV",
+      "category": "News, Entertainment, National",
+      "title": "TV Okey",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/okey.png",
       "description": "TV Okey is a Malaysian television channel owned and operated by Radio Televisyen Malaysia.",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd",
@@ -171,7 +171,7 @@
     },
     {
       "id": 8,
-      "category": "Entertainment, National",
+      "category": "Entertainment",
       "title": "TV9",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/9.png",
       "description": "TV 9 is a Malaysian free-to-air channel focused to thrill you with drama series and sports content. ",
@@ -180,7 +180,7 @@
     },
     {
       "id": 9,
-      "category": "Religion, World",
+      "category": "Entertainment",
       "title": "8TV",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/8.png",
       "description": "8TV is a Malaysian Chinese-language free-to-air television network that consists of mostly dramas, sitcoms, and reality shows.",
@@ -189,7 +189,7 @@
     },
     {
       "id": 10,
-      "category": "Entertainment, National",
+      "category": "News, Entertainment, National",
       "title": "BERNAMA",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/bernama.png",
       "description": "BERNAMA is a 24-hour local news channel with an international style and creates Malaysian news that is accessible, pertinent, relevant and current.",
@@ -208,46 +208,19 @@
     {
       "id": 12,
       "category": "News",
-      "title": "Astro Arena",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/arena.png",
-      "description": "The ultimate destination for Malaysian sporting events, as well as showcasing Malaysian athletes competing at the pinnacle stage of world sports, and also the latest information on sports in the country.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/tvone.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 13,
-      "category": "Entertainment, National",
-      "title": "Astro Awani",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/awani.png",
-      "description": "Astro AWANI is Malaysia's Most Trusted News Brand* The #1 Channel for Breaking News in Malaysia, we offer a variety of bulletins, current affairs & news",
-      "streaming_url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_1.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 14,
-      "category": "World, News",
       "title": "DidikTV ",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/7.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/didiktv.png",
       "description": "is a Malaysian educational television network owned, produced and operated by Ministry of Education.",
       "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=2000000.m3u8",
       "user_agent": ""
     },
     {
-      "id": 15,
-      "category": "News, National",
-      "title": "Astro Warna",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/warna.png",
-      "description": "Stress Free, No Tension Channel - Unwind after a long day with Warna. Sit down & relax while watching the hilarious antics of local comedians as well as a colorful selection of international comedies.",
-      "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 16,
-      "category": "Entertainment",
-      "title": "Astro BOO",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/boo.png",
-      "description": "There’s no horror quite like Asian horror, where the creepiest, slimiest, oiliest and scariest crawl out of your imagination to come to horrific life on screen.",
-      "streaming_url": "https://www.youtube.com/watch?v=YE7VzlLtp-4",
+      "id": 13,
+      "category": "World, Entertainment",
+      "title": "Sport TV",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ball.png",
+      "description": "Sport TV",
+      "streaming_url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
       "user_agent": ""
     }
   ],
