@@ -193,7 +193,7 @@
       "title": "BERNAMA",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/bernama.png",
       "description": "BERNAMA is a 24-hour local news channel with an international style and creates Malaysian news that is accessible, pertinent, relevant and current.",
-      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1693508446-4d8f81c7d9cf4e8d8f2eb5515e8a5831-0-b78505d781db31f08e97987b29fd4f96&token=1693508446-4d8f81c7d9cf4e8d8f2eb5515e8a5831-0-b78505d781db31f08e97987b29fd4f96",
+      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1693588579-d9f511447f834512b8ebb2fbf53609a5-0-81256cd5b648faade05e2352b9b8b4b6&token=1693588579-d9f511447f834512b8ebb2fbf53609a5-0-81256cd5b648faade05e2352b9b8b4b6",
       "user_agent": ""
     },
     {
@@ -202,7 +202,7 @@
       "title": "TV Alhijrah",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/alhijrah.png",
       "description": "An Islamic-based television channel that covers news, entertainment, culture, and other Muslim-oriented programmes. ",
-      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1693508373-c4b4087621024d94a9ddca8584a0968f-0-13929b61908ad85295f412039dbb6b4a&token=1693508373-c4b4087621024d94a9ddca8584a0968f-0-13929b61908ad85295f412039dbb6b4a",
+      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1693588618-7f8ebdeb54124cc2835d0dbecaed0477-0-8cb078002c14cf550fe3fe1a7fbe79b2&token=1693588618-7f8ebdeb54124cc2835d0dbecaed0477-0-8cb078002c14cf550fe3fe1a7fbe79b2",
       "user_agent": ""
     },
     {
@@ -212,15 +212,6 @@
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/didiktv.png",
       "description": "is a Malaysian educational television network owned, produced and operated by Ministry of Education.",
       "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=2000000.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 13,
-      "category": "World, Entertainment",
-      "title": "Sport TV",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ball.png",
-      "description": "Sport TV",
-      "streaming_url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
       "user_agent": ""
     }
   ],
