@@ -193,7 +193,7 @@
       "title": "BERNAMA",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/bernama.png",
       "description": "BERNAMA is a 24-hour local news channel with an international style and creates Malaysian news that is accessible, pertinent, relevant and current.",
-      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1693588579-d9f511447f834512b8ebb2fbf53609a5-0-81256cd5b648faade05e2352b9b8b4b6&token=1693588579-d9f511447f834512b8ebb2fbf53609a5-0-81256cd5b648faade05e2352b9b8b4b6",
+      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1693762627-10f622a063384a3fb230ae6a664f18dd-0-633fe44374165d6f750181e9795abcce&token=1693762627-10f622a063384a3fb230ae6a664f18dd-0-633fe44374165d6f750181e9795abcce",
       "user_agent": ""
     },
     {
@@ -202,7 +202,7 @@
       "title": "TV Alhijrah",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/alhijrah.png",
       "description": "An Islamic-based television channel that covers news, entertainment, culture, and other Muslim-oriented programmes. ",
-      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1693588618-7f8ebdeb54124cc2835d0dbecaed0477-0-8cb078002c14cf550fe3fe1a7fbe79b2&token=1693588618-7f8ebdeb54124cc2835d0dbecaed0477-0-8cb078002c14cf550fe3fe1a7fbe79b2",
+      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1693762549-32fd134a2ccb4038ae28663f3ad4a4cf-0-bfbba2551e9dc1965ec4d00a6254a42f&token=1693762549-32fd134a2ccb4038ae28663f3ad4a4cf-0-bfbba2551e9dc1965ec4d00a6254a42f",
       "user_agent": ""
     },
     {
