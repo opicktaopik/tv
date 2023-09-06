@@ -184,7 +184,7 @@
       "title": "TV9",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/9.png",
       "description": "TV 9 is a Malaysian free-to-air channel focused to thrill you with drama series and sports content. ",
-      "streaming_url": "https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/47e0d8ed-b009-49a6-ab0a-d4ac6d7479f5/2.m3u8",
+      "streaming_url": "https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/ce551df6-a9ce-4ea0-9cd0-29884116efb0/3.m3u8",
       "user_agent": ""
     },
     {
@@ -202,7 +202,7 @@
       "title": "BERNAMA",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/bernama.png",
       "description": "BERNAMA is a 24-hour local news channel with an international style and creates Malaysian news that is accessible, pertinent, relevant and current.",
-      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1693856280-2377a1ced7f54f21b183e2773c4048ff-0-d582c8378fc603e27eddb43b56e2b506&token=1693856280-2377a1ced7f54f21b183e2773c4048ff-0-d582c8378fc603e27eddb43b56e2b506",
+      "streaming_url": "https://live.mana2.my/Bernama/tracks-v3a1/mono.m3u8?token=1694020747-27459f662d5840e9b69bf5a346f31128-0-abac3089b8709f1105c8b3a689f06692&auth_key=1694020747-27459f662d5840e9b69bf5a346f31128-0-948bb08cf429d2619c9f8e3454e40208",
       "user_agent": ""
     },
     {
@@ -211,7 +211,7 @@
       "title": "TV Alhijrah",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/alhijrah.png",
       "description": "An Islamic-based television channel that covers news, entertainment, culture, and other Muslim-oriented programmes. ",
-      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1693856229-401b609cd8604b018a98f10c0d3b4401-0-d1ccb8f36af92260c30ab8d9b1bad2c4&token=1693856229-401b609cd8604b018a98f10c0d3b4401-0-d1ccb8f36af92260c30ab8d9b1bad2c4",
+      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1694020873-687d7eb015cb48dd9fa0a060671c022c-0-bb32ff0abcc4a99ea732e8e622e8e0ef&token=1694020873-687d7eb015cb48dd9fa0a060671c022c-0-bb32ff0abcc4a99ea732e8e622e8e0ef",
       "user_agent": ""
     },
     {
