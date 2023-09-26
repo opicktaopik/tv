@@ -19,7 +19,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "applovin_max",
+      "main_ad": "admob",
       "backup_ad": "none",
       "admob_banner_unit_id": "null",
       "admob_interstitial_unit_id": "null",
@@ -76,31 +76,11 @@
   "categories": [
     {
       "id": 1,
-      "name": "News",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
-    },
-    {
-      "id": 2,
-      "name": "Entertainment",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
-    },
-    {
-      "id": 3,
-      "name": "Religion",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
-    },
-    {
-      "id": 4,
-      "name": "Regional",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
-    },
-    {
-      "id": 5,
-      "name": "National",
+      "name": "Malaysia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
     },
     {
-      "id": 6,
+      "id": 2,
       "name": "World",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
     }
@@ -108,119 +88,83 @@
   "channels": [
     {
       "id": 1,
-      "category": "News, Entertainment, National",
-      "title": "TV1",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/1.png",
-      "description": "TV1 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH1",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 2,
-      "category": "News, Entertainment, National",
-      "title": "TV2",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/2.png",
-      "description": "TV2 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. ",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH2",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 3,
-      "category": "Entertainment",
-      "title": "TV3",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/3.png",
-      "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news. Not working? <a href='https://www.tvmalaysia.net/2022/01/tv3.html'>Click here</a>",
-      "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/4.m3u8",
+      "category": "Malaysia",
+      "title": "CH3",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 4,
-      "category": "News, Entertainment, National",
-      "title": "TV6",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/6.png",
-      "description": "TV3 is a Malaysian free-to-air television channel airing various types of programmes, drama and news.",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH4",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 5,
-      "category": "News, Entertainment, National",
-      "title": "TV Okey",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/okey.png",
-      "description": "TV Okey is a Malaysian television channel owned and operated by Radio Televisyen Malaysia.",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH5",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 6,
-      "category": "News, National",
-      "title": "Berita RTM",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/beritartm.png",
-      "description": "Berita RTM focusing on news and news-related programs broadcast 24 hours daily in 4 languages: Malay, English, Mandarin and Tamil. ",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH6",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": " ",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 7,
-      "category": "News, National",
-      "title": "Sukan RTM",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/sukan.png",
-      "description": "Sukan RTM is a Malaysian sports television channel owned and operated by Radio Television Malaysia.",
-      "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+      "category": "Malaysia",
+      "title": "CH7",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 8,
-      "category": "Entertainment, News, National",
-      "title": "Astro Awani",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/awani.png",
-      "description": "Malaysia's first 24 hour news & information channel - delivering in-depth analysis and balanced, transparent coverage of news and current affairs.",
-      "streaming_url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_1.m3u8",
+      "category": "Malaysia",
+      "title": "CH8",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     },
     {
       "id": 9,
-      "category": "Entertainment",
-      "title": "TV9",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/9.png",
-      "description": "TV 9 is a Malaysian free-to-air channel focused to thrill you with drama series and sports content. ",
-      "streaming_url": "https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/ce551df6-a9ce-4ea0-9cd0-29884116efb0/3.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 10,
-      "category": "Entertainment",
-      "title": "8TV",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/8.png",
-      "description": "8TV is a Malaysian Chinese-language free-to-air television network that consists of mostly dramas, sitcoms, and reality shows.",
-      "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=2000000.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 11,
-      "category": "News, Entertainment, National",
-      "title": "BERNAMA",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/bernama.png",
-      "description": "BERNAMA is a 24-hour local news channel with an international style and creates Malaysian news that is accessible, pertinent, relevant and current. \n Not working? <a href='https://www.tvmalaysia.net/2022/04/bernama-tv.html'>Click here</a>",
-      "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1694200304-a5d043fcf9a84bd5a596ab52e296e7f8-0-e7c6d1cf5e884d59115df7d8939f3afe&token=1694200304-a5d043fcf9a84bd5a596ab52e296e7f8-0-e7c6d1cf5e884d59115df7d8939f3afe",
-      "user_agent": ""
-    },
-    {
-      "id": 12,
-      "category": "Entertainment, News, National",
-      "title": "TV Alhijrah",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/alhijrah.png",
-      "description": "<p>An Islamic-based television channel that covers news, entertainment, culture, and other Muslim-oriented programmes. </p><p>Not working? <a href='https://www.mana2.my/channel/live/tv-alhijrah'>Click here</a> </p>",
-      "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1694200254-24dbb9a835e042bcbdbed9debe17ed85-0-4cc2296df102cc523061cb046e1b40b1&token=1694200254-24dbb9a835e042bcbdbed9debe17ed85-0-4cc2296df102cc523061cb046e1b40b1",
-      "user_agent": ""
-    },
-    {
-      "id": 13,
-      "category": "News",
-      "title": "DidikTV ",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/didiktv.png",
-      "description": "DidikTV is a Malaysian educational television network owned, produced and operated by Ministry of Education. ",
-      "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=2000000.m3u8",
+      "category": "Malaysia",
+      "title": "CH9",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "description": "",
+      "streaming_url": "",
       "user_agent": ""
     }
   ],
@@ -228,8 +172,8 @@
     {
       "id": 1,
       "title": "Website TVMalaysia.Net",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://www.tvmalaysia.net/"
+      "image": "https://play-lh.googleusercontent.com/vsNvrYUz9dObk2BSjEc43mEFjxEUtkZeJfRiCypjJdIxxUdrAqx0wvBhEWvcXuPr_A=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.terbarux.callceritajekho"
     }
   ]
 }
