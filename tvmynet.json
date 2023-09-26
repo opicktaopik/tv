@@ -92,7 +92,7 @@
       "title": "CH1",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
       "user_agent": ""
     },
     {
@@ -101,7 +101,7 @@
       "title": "CH2",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dianmeli.mp4",
       "user_agent": ""
     },
     {
@@ -110,7 +110,7 @@
       "title": "CH3",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/evan.mp4",
       "user_agent": ""
     },
     {
@@ -119,7 +119,7 @@
       "title": "CH4",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -128,7 +128,7 @@
       "title": "CH5",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -137,7 +137,7 @@
       "title": "CH6",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": " ",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -146,7 +146,7 @@
       "title": "CH7",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -155,7 +155,7 @@
       "title": "CH8",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -164,14 +164,14 @@
       "title": "CH9",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/ade.mp4",
       "user_agent": ""
     }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Website TVMalaysia.Net",
+      "title": "Cerita Jekho Fake Call",
       "image": "https://play-lh.googleusercontent.com/vsNvrYUz9dObk2BSjEc43mEFjxEUtkZeJfRiCypjJdIxxUdrAqx0wvBhEWvcXuPr_A=w240-h480",
       "url": "https://play.google.com/store/apps/details?id=com.terbarux.callceritajekho"
     }
