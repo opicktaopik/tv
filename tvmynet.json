@@ -78,11 +78,6 @@
       "id": 1,
       "name": "Malaysia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
-    },
-    {
-      "id": 2,
-      "name": "World",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
     }
   ],
   "channels": [
@@ -92,7 +87,7 @@
       "title": "CH1",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.mp4",
       "user_agent": ""
     },
     {
@@ -101,7 +96,7 @@
       "title": "CH2",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dianmeli.mp4",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
       "user_agent": ""
     },
     {
@@ -110,7 +105,7 @@
       "title": "CH3",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/evan.mp4",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
       "user_agent": ""
     },
     {
@@ -128,7 +123,7 @@
       "title": "CH5",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/evan.mp4",
       "user_agent": ""
     },
     {
@@ -137,34 +132,7 @@
       "title": "CH6",
       "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
       "description": " ",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 7,
-      "category": "Malaysia",
-      "title": "CH7",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
-      "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 8,
-      "category": "Malaysia",
-      "title": "CH8",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
-      "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 9,
-      "category": "Malaysia",
-      "title": "CH9",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
-      "description": "",
-      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/ade.mp4",
+      "streaming_url": "https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/yana.mp4",
       "user_agent": ""
     }
   ],
@@ -173,7 +141,7 @@
       "id": 1,
       "title": "Cerita Jekho Fake Call",
       "image": "https://play-lh.googleusercontent.com/vsNvrYUz9dObk2BSjEc43mEFjxEUtkZeJfRiCypjJdIxxUdrAqx0wvBhEWvcXuPr_A=w240-h480",
-      "url": "https://play.google.com/store/apps/details?id=com.terbarux.callceritajekho"
+      "url": "https://play.google.com/store/apps/details?id=com.magic5.fakevideo.call"
     }
   ]
 }
