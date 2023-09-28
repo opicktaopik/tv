@@ -90,7 +90,7 @@
       "id": 1,
       "category": "Malaysia",
       "title": "TV1",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
       "user_agent": ""
@@ -99,7 +99,7 @@
       "id": 2,
       "category": "Malaysia",
       "title": "TV2",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
       "user_agent": ""
@@ -108,7 +108,7 @@
       "id": 3,
       "category": "Malaysia",
       "title": "TV3",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "Not working? <a href='https://embedtvmalaysia.blogspot.com/2021/11/tv3.html'>Click here</a>",
       "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/4.m3u8",
       "user_agent": ""
@@ -117,7 +117,7 @@
       "id": 4,
       "category": "Malaysia",
       "title": "TV6",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd",
       "user_agent": ""
@@ -126,7 +126,7 @@
       "id": 5,
       "category": "Malaysia",
       "title": "TV Okey",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd",
       "user_agent": ""
@@ -135,7 +135,7 @@
       "id": 6,
       "category": "Malaysia",
       "title": "Berita RTM",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd",
       "user_agent": ""
@@ -144,7 +144,7 @@
       "id": 7,
       "category": "Malaysia",
       "title": "Sukan RTM",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
       "user_agent": ""
@@ -153,7 +153,7 @@
       "id": 8,
       "category": "Malaysia",
       "title": "Awani",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "",
       "streaming_url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_1.m3u8",
       "user_agent": ""
@@ -162,7 +162,7 @@
       "id": 9,
       "category": "Malaysia",
       "title": "TV9",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "Not working? <a href='https://embedtvmalaysia.blogspot.com/2023/09/tv9-git.html'>Click here</a>",
       "streaming_url": "https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/ce551df6-a9ce-4ea0-9cd0-29884116efb0/3.m3u8",
       "user_agent": ""
@@ -171,7 +171,7 @@
       "id": 10,
       "category": "Malaysia",
       "title": "8TV",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "Not working? <a href='https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/8tv/index.html'>Click here</a>",
       "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=2000000.m3u8",
       "user_agent": ""
@@ -180,7 +180,7 @@
       "id": 11,
       "category": "Malaysia",
       "title": "BERNAMA",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "Not working? <a href='https://embedtvmalaysia.blogspot.com/2022/04/bernamatv.html'>Click here</a>",
       "streaming_url": "https://live.mana2.my/Bernama/index.m3u8?auth_key=1694200304-a5d043fcf9a84bd5a596ab52e296e7f8-0-e7c6d1cf5e884d59115df7d8939f3afe&token=1694200304-a5d043fcf9a84bd5a596ab52e296e7f8-0-e7c6d1cf5e884d59115df7d8939f3afe",
       "user_agent": ""
@@ -189,7 +189,7 @@
       "id": 12,
       "category": "Malaysia",
       "title": "TV Alhijrah",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "<p>Not working? <a href='https://desireevanessen.blogspot.com/2023/07/alhijrah.html'>Click here</a> </p>",
       "streaming_url": "https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1694200254-24dbb9a835e042bcbdbed9debe17ed85-0-4cc2296df102cc523061cb046e1b40b1&token=1694200254-24dbb9a835e042bcbdbed9debe17ed85-0-4cc2296df102cc523061cb046e1b40b1",
       "user_agent": ""
@@ -198,7 +198,7 @@
       "id": 13,
       "category": "Malaysia",
       "title": "DidikTV ",
-      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch.png",
+      "image": "https://raw.githubusercontent.com/opicktaopik/tv/main/ch2.png",
       "description": "<p>Not working? <a href='https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/didik-tv/index.html'>Click here</a> </p>",
       "streaming_url": "https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=2000000.m3u8",
       "user_agent": ""
